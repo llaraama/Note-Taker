@@ -1,6 +1,12 @@
 # HW9-Note-Taker
 # Unit 11 Express Homework: Note Taker
+
+## Video Functionality 
 https://drive.google.com/file/d/1FvZr8G6Fa8fJa_ck-8YQOF6ng43C1fMZ/view
+
+## Heroku
+https://vert-madame-21550.herokuapp.com/
+
 ## Description
 
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.

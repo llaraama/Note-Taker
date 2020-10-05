@@ -2,8 +2,6 @@
 
 Deployed Heroku page: https://vert-madame-21550.herokuapp.com/
 
-Video Functionality: https://drive.google.com/file/d/169DCzvkNCWfSfdAsl78oXs1heQ3QWjRR/view
-
 ![badmath](https://img.shields.io/github/languages/top/llaraama/Note-Taker)
 
 ## Description

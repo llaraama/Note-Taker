@@ -23,7 +23,7 @@ For users that need to keep track of a lot of information, it's easy to forget o
 Clone this repo to your local machine using: https://github.com/llaraama/Note-Taker.git
 
 ## Usage 
-![notes](https://user-images.githubusercontent.com/62354759/92662330-9aa55c80-f2cc-11ea-9f07-de6677ba2639.gif)
+![Note Taker (1)](https://user-images.githubusercontent.com/62354759/95038269-b87f9a80-069b-11eb-8db4-0e1bf4e70664.gif)
 
 ## License 
 MIT License

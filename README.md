@@ -1,5 +1,4 @@
 # Note-Taker Using Express 
-
 Deployed Heroku page: https://vert-madame-21550.herokuapp.com/
 
 ![badmath](https://img.shields.io/github/languages/top/llaraama/Note-Taker)
@@ -30,5 +29,5 @@ MIT License
 Fork this repository. Create a branch: git checkout -b <branch_name>. Add: git add . Make your changes and commit them: git commit -m '<commit_message>' Push to the original branch: git push origin <branch_name> Create the pull request.
 
 ## Technology 
-Express, JavaScript, and API Routes 
+Express, JavaScript, and API Routes, HTML, CSS
 
